@@ -1,0 +1,11 @@
+Lista de Produtos:
+Produto 1 - 2629
+Produto 6 - 2822
+Produto 3 - 3584
+Produto 2 - 3485
+Produto 4 - 279
+Produto 5 - 2458
+Três Menores Produtos:
+Produto 4 - 279
+Produto 5 - 2458
+Produto 1 - 2629
